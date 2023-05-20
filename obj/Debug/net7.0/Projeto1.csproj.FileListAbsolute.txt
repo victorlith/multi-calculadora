@@ -1,0 +1,15 @@
+/home/lith/Documentos/Projeto1/bin/Debug/net7.0/Projeto1
+/home/lith/Documentos/Projeto1/bin/Debug/net7.0/Projeto1.deps.json
+/home/lith/Documentos/Projeto1/bin/Debug/net7.0/Projeto1.runtimeconfig.json
+/home/lith/Documentos/Projeto1/bin/Debug/net7.0/Projeto1.dll
+/home/lith/Documentos/Projeto1/bin/Debug/net7.0/Projeto1.pdb
+/home/lith/Documentos/Projeto1/obj/Debug/net7.0/Projeto1.csproj.AssemblyReference.cache
+/home/lith/Documentos/Projeto1/obj/Debug/net7.0/Projeto1.GeneratedMSBuildEditorConfig.editorconfig
+/home/lith/Documentos/Projeto1/obj/Debug/net7.0/Projeto1.AssemblyInfoInputs.cache
+/home/lith/Documentos/Projeto1/obj/Debug/net7.0/Projeto1.AssemblyInfo.cs
+/home/lith/Documentos/Projeto1/obj/Debug/net7.0/Projeto1.csproj.CoreCompileInputs.cache
+/home/lith/Documentos/Projeto1/obj/Debug/net7.0/Projeto1.dll
+/home/lith/Documentos/Projeto1/obj/Debug/net7.0/refint/Projeto1.dll
+/home/lith/Documentos/Projeto1/obj/Debug/net7.0/Projeto1.pdb
+/home/lith/Documentos/Projeto1/obj/Debug/net7.0/Projeto1.genruntimeconfig.cache
+/home/lith/Documentos/Projeto1/obj/Debug/net7.0/ref/Projeto1.dll
